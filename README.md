@@ -17,5 +17,5 @@ Bienvenue sur le front-end de l'application **EdacyProject**. Ce projet a été 
 1. Clonez le projet :
 
 ```bash
-git clone https://github.com/fatoumbodj/EdacyProject.git
-cd EdacyProject
+git clone https://github.com/fatoumbodj/edacy.git
+cd edacy
